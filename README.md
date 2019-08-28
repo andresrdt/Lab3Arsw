@@ -21,9 +21,9 @@ test
 # Part II
 
 ![](img/configureEnglish.PNG)
+---
 
-
-### Blueprint Management 1
+# Blueprint Management 1
 # Part I
 Configure the application to work under a dependency injection scheme, as shown in the previous diagram.
 The above requires:
