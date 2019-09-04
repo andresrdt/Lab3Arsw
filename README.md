@@ -16,7 +16,9 @@ configuracion de spellspanish
 
 ![](img/configureSpanish.PNG)
 
-test 
+Make a test program, where an instance of GrammarChecker is created by Spring, and use it:
+
+![](img/main.PNG)
 
 # Part II
 
